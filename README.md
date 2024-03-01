@@ -1,4 +1,4 @@
-# Video_Classifier_Task using CRNN
+# Video_Classifier using CRNN
 Overview:
 This repository contains code for training a Convolutional Recurrent Neural Network (CRNN) model to classify videos into categories of violence and non-violence. The dataset used for training and validation is the "Real Life Violence Dataset". The code is implemented in Python using libraries such as OpenCV, NumPy, Matplotlib, Scikit-learn, and Keras.
 
