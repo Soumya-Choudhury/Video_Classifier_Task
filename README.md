@@ -26,5 +26,5 @@ ii)Navigate to the project directory and open the main notebook file: "Video_cla
 iii)Execute each cell in the notebook sequentially to load the dataset, preprocess the video frames, visualize the data, define the CRNN model, train the model, and evaluate its performance.
 
 Note:-
-i)The The code is divided into sections and commented for clarity.
+i)The code is divided into sections and commented for clarity.
 ii)Adjust hyperparameters such as batch size, number of epochs, and model architecture as needed and ensure that the dataset directory structure and file names are consistent with the provided code.
