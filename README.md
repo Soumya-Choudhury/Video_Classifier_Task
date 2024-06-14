@@ -28,3 +28,7 @@ iii)Execute each cell in the notebook sequentially to load the dataset, preproce
 Note:-
 i)The code is divided into sections and commented for clarity.
 ii)Adjust hyperparameters such as batch size, number of epochs, and model architecture as needed and ensure that the dataset directory structure and file names are consistent with the provided code.
+
+Results:-
+i)Preprocessed a real-life violence dataset by labeling and resizing video frames, ensuring consistent input for the model.
+ii)Achieved an accuracy of 80% with a precision of 87%, recall of 70%, and F1-score of 78% in model evaluation.
